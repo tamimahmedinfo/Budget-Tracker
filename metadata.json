@@ -1,0 +1,6 @@
+{
+  "name": "TakaFlow - Personal Finance & Wealth OS",
+  "description": "Premium animated personal finance, budgeting, and wealth management platform for Bangladeshi Taka and modern financial life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
